@@ -1582,7 +1582,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #ff9633;
 }
 .cid-rvanE7RBjC button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1810,7 +1810,7 @@ body {
 }
 .cid-rvanE7RBjC .nav-link:hover,
 .cid-rvanE7RBjC .dropdown-item:hover {
-  color: #767676 !important;
+  color: #ff9633 !important;
 }
 .cid-rvanO8OD0d {
   padding-top: 135px;
